@@ -1,0 +1,3 @@
+Run with:
+    fastmcp run my_server.py:mcp --transport http --port 8000
+
